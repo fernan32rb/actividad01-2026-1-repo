@@ -1,1 +1,3 @@
 El Proyecto 2 es un juego estilo Pokémon Red.
+
+También quiero que tenga mecánicas de día y noche como en Silver.
