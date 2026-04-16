@@ -1,1 +1,1 @@
-Este es un repositorio de Prueba.
+# REPOSITORIO DE PRUEBA PARA EL CURSO DE PW DEL SEMESTRE 2026-1
