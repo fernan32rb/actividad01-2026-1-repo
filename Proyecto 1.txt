@@ -6,3 +6,5 @@ Carga de Usuarios
 Registro de Usuarios
 Mantenimiento
 Reportes
+Lista de Ordenes
+Nuevos Pedidos
